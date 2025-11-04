@@ -1,6 +1,9 @@
-# Cobiro
+# Angular Hexagonal Architecture
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.10.
+
+> [!NOTE]
+> The goal for the project is to showcase a hexagonal architecture inside Angular Application
 
 ## Development server
 
